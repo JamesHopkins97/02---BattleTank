@@ -9,3 +9,4 @@ An open world tank warfare game with simple AI, and advanced control systems fro
 * L04 Setting Up A Landscape
 * L05 Modifying the Landscape (Sculpting tools)
 * L06 Creating Paint Layers for the Landscape
+* L07-09 Converting Landscape to Low Poly
