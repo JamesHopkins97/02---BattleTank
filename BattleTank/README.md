@@ -5,3 +5,4 @@ An open world tank warfare game with simple AI, and advanced control systems fro
 ##Task/Lecture List
 * L01 Lecture Notes & Overview
 * L02 Setting Up Github Repository
+* L03 Adding a Landscape
